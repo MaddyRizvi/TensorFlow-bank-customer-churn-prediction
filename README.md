@@ -42,7 +42,7 @@ pip install -r requirements.txt
 Make sure the dataset (`Churn_Modelling.csv`) is in the root directory. Then run:
 
 ```bash
-python churn_prediction_ann.py
+python TensorFlow-bank-customer-churn-prediction.py
 ```
 
 This script will preprocess the data, build and train the ANN, and display evaluation results.
